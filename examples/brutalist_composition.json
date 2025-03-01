@@ -1,0 +1,26 @@
+{
+    "style": "brutalist",
+    "name": "brutalist_composition",
+    "description": "Bold architectural brutalist composition with structured patterns and clean forms",
+    "image_size": 128,
+    "channels": 3,
+    "color_palette": [
+        [50, 50, 50],
+        [80, 80, 80],
+        [120, 120, 120],
+        [180, 180, 180],
+        [220, 220, 220],
+        [240, 240, 240]
+    ],
+    "complexity": 0.6,
+    "fill_probability": 0.8,
+    "line_width": 3.0,
+    "min_blocks": 4,
+    "max_blocks": 8,
+    "block_count": 6,
+    "min_block_size": 30,
+    "max_block_size": 50,
+    "symmetry": true,
+    "ordered": true,
+    "allow_overlap": false
+} 
